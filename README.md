@@ -1,5 +1,12 @@
 ## Olá, eu sou Hegnon Henrique 👋
 
+
+```ruby 
+class Programmer
+
+	def initialize() 
+```
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tps://www.linkedin.com/in/h%C3%A9gnon-henrique-dutra-delaqua-67253b116/)
 [![instagrm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](ps://www.instagram.com/hegnondutra/)
 
