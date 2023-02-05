@@ -14,8 +14,10 @@ class Programmer
 
 # Aprendendo as Tecnologias
 <div style="display: inlin_black"> 
+<img aligo="center" alt= "ruby" src="https://img.shields.io/badge/Ruby on Rails-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img aligo="center" alt= "ruby" src="https://img.shields.io/badge/-PostgreSQL-0077B5?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img aligo="center" alt= "html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img aligo="center" alt= "css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img aligo="center" alt= "ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
 
 </div>
