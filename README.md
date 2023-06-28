@@ -1,4 +1,4 @@
-## Olá, eu sou Hegnon Henrique 👋
+## Olá, eu sou Hegnon Dutra 👋
 
 
 ```ruby 
